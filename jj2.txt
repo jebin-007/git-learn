@@ -1,1 +1,3 @@
 this is first info on jj2 file
+
+second updated to jj2.txt
